@@ -1,4 +1,4 @@
 "AadClientId": "2dddf809-66fc-44d3-99c6-38bdf9ae1e47",
 "AadSecret": "XPK8Q~fHTl594u9LYFM-_4m3dMRJNqy-Ik6Sscfy",
-"AadTenantDomain": "SentinelSimulate.recordpoint.com",
+"AadTenantDomain": "recordpoint.com",
 "AadTenantId": "43909106-bb99-4431-a550-e1b5281bc3b9",
