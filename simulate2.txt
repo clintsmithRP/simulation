@@ -1,0 +1,4 @@
+"AadClientId": "04c481e5-7dbb-4a5e-9c52-77f247f247a3",
+"AadSecret": "RT-8Q~9mscEoAoAtY2h4F6_BOoGO-XCp686Z5aNi",
+"AadTenantDomain": "recordpoint.com",
+"AadTenantId": "43909106-bb99-4431-a550-e1b5281bc3b9"
